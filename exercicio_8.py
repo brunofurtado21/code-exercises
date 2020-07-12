@@ -4,7 +4,7 @@ import time
 
 
 #Variáveis iniciais
-range_n = [10**4,10**5,10**5*2,10**5*3]
+range_n = [10**5,10**7,10**9]
 range_k = [1,2,4,8,16]
 start = -50
 stop = 50
